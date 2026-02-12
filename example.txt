@@ -1,0 +1,2 @@
+This is an sample file for git learning.
+Please join me for further learning.
