@@ -1,0 +1,5 @@
+Key Elements in GIT:
+1.) Remote Repository.
+2.) Local Repository.
+3.) Staging Area.
+4.) Working Directory.
