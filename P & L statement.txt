@@ -1,0 +1,7 @@
+Account	8509420709								
+Name	SHYAM SANDEEP CHANDRAGANTI								
+Equity PL									
+Stock Symbol	ISIN	Qty	Sale Date	Sale Rate	Sale Value	Purchase Date	Purchase Rate	Purchase Value	Profit/Loss(-)
+<= 1 Year Profit/Loss (Sold within 1 year of Holding)									
+BANBAR	INE028A01039	1	04-Mar-24	273.7	272.82	23-Feb-24	268.9	269.77	3.05
+TATPOW	INE245A01021	52	07-Mar-24	399.9	20727.76	04-Mar-24	391.6	20431.82	295.94
